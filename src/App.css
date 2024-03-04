@@ -13,3 +13,12 @@
   color: white;
 }
 
+.user-button{
+  font-size: 44px;
+  padding: 20px, 40px;
+  border: none;
+  border-radius: 10px;
+  border-color: aliceblue;
+  cursor: pointer;
+}
+
